@@ -1,6 +1,8 @@
 # learning-tape
 Learning Tape for JS TDD.
 
+Just one of the things I'm learning. https://github.com/hchiam/learning
+
 ## Get Started:
 To get started, do this inside your folder within Terminal:
 ```
@@ -27,3 +29,11 @@ ok 1 should add two numbers correctly
 
 # ok
 ```
+
+## Resources:
+
+https://www.youtube.com/watch?v=5JXx0QrYUXo
+
+https://github.com/dwyl/learn-tape
+
+https://github.com/substack/tape
