@@ -4,8 +4,9 @@ Learning Tape for JS TDD.
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Get Started:
-To get started, do this inside your folder within Terminal:
+To get started, do this inside your folder within Terminal to install Tape:
 ```
+mkdir node_modules
 npm install tape --save-dev
 ```
 
