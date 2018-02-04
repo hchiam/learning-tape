@@ -15,7 +15,7 @@ Then to run the test, do this in Terminal:
 node test.js
 ```
 
-This tests `add.js` using `test.js`.
+This tests `add.js` using `add.test.js`.
 
 And you should see something like this:
 ```
