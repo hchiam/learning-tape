@@ -13,7 +13,7 @@ npm install tape --save-dev
 ## Run Test:
 Then to run the test, do this in Terminal:
 ```
-node test.js
+node add.test.js
 ```
 
 This tests `add.js` using `add.test.js`.
