@@ -15,6 +15,7 @@ Then to run the test, do this in Terminal:
 ```
 node add.test.js
 ```
+(Note that this uses `node`, unlike Jest, which uses `npm`.)
 
 This tests `add.js` using `add.test.js`.
 
